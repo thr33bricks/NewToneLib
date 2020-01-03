@@ -1,2 +1,7 @@
 # NewToneLib
-New Tone library for arduino devices which do not support the built-in one.
+NewToneLib is a simple library, intended for devices which do not support built-in tone() function.
+
+NOTE: tone() function does not support using multiple pins simultaneously.
+
+created   Jan 2020
+by Yordan Yordanov, BG
