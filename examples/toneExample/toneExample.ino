@@ -7,7 +7,7 @@
  created   Jan 2020
  by Yordan Yordanov, BG
 
- GITHUB: 
+ GITHUB: https://github.com/YordanYordanovGIT/NewToneLib
 
  */
 
