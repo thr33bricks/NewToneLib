@@ -3,5 +3,5 @@ NewToneLib is a simple library, intended for devices which do not support built-
 
 NOTE: tone() function does not support using multiple pins simultaneously.
 
-created   Jan 2020
+created:   January 2020
 by Yordan Yordanov, BG
