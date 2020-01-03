@@ -23,9 +23,9 @@ void setup() {
   pinMode(buzzerPin, OUTPUT); //pin declared as OUTPUT
   t.tone(buzzerPin, 4000, 500);//pin, frequency(Hz), duration(ms)
   delay(500);
-  t.tone(buzzerPin, 7000, 250);//pin, frequency(Hz), duration(ms)
+  t.tone(buzzerPin, 7000, 250);
   delay(250);
-  t.tone(buzzerPin, 10000, 250);//pin, frequency(Hz), duration(ms)
+  t.tone(buzzerPin, 10000, 250);
 }
 
 void loop() {
