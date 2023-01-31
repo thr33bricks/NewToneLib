@@ -17,7 +17,7 @@ MyTone t(false);
 
 void setup() {
   //freq in Hz; min = 31Hz; max = 333Hz
-  //duration in milliseconds; max = 4290000‬ms
+  //duration in milliseconds; max = 4290000ms
   //duty cycle is 50%
   //pin shoud be declared as output in setup
   pinMode(buzzerPin, OUTPUT); //pin declared as OUTPUT
